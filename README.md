@@ -1,7 +1,7 @@
 # Hi, I'm Vinayak👋
 
 ### Python | FastAPI | AI Engineer
-Building production backends + AI features — async APIs, background workers, RAG.
+Building production backends + AI features - async APIs, background workers, RAG
 
 📫 **Contact:** aaryansk73@gmail.com
 
