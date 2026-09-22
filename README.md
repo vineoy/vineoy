@@ -8,9 +8,9 @@ Building production backends + AI features — async APIs, background workers, R
 ---
 
 #### About me
-- 🐍 Python-focused backend engineer working with **FastAPI (async), SQLAlchemy 2.0, Alembic, PostgreSQL, Redis**
-- 🤖 AI engineer: **RAG (LlamaIndex), Gemini API, HuggingFace embeddings, incident analysis / root-cause prompts**
-- ⚙️ Ship with **Docker, GitHub Actions CI, Pytest (112 tests, 88% coverage on main project), Ruff**
+- 🐍 Python-focused backend engineer working with **FastAPI, SQLAlchemy 2.0, Alembic, PostgreSQL, Redis**
+- 🤖 AI engineer: **RAG (LlamaIndex), LLMs, HuggingFace embeddings, incident analysis / root-cause prompts**
+- ⚙️ Ship with **Docker, GitHub Actions CI, Pytest, Ruff**
 - 📦 Background jobs & realtime: **ARQ, Redis Pub/Sub, WebSockets**
 - 🌱 Previously Java/Spring + React — now focused on Python/FastAPI + AI
 
@@ -23,7 +23,6 @@ Building production backends + AI features — async APIs, background workers, R
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG-000000?style=flat)
-![Gemini](https://img.shields.io/badge/Gemini-1C73E8?style=flat&logo=google&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -33,7 +32,7 @@ Building production backends + AI features — async APIs, background workers, R
 **1. [PulseTrack AI](https://github.com/vineoy/pulsetrack-ai) — Uptime monitoring SaaS + AI incident analyst**
 > FastAPI + React SaaS that checks sites/APIs every minute, opens incidents, alerts via Telegram, public status page, Gemini root-cause analysis.
 - Backend: `Python 3.12, FastAPI async, SQLAlchemy 2.0, Alembic, PostgreSQL 16, Redis 7, ARQ workers, JWT + API keys, HMAC webhooks`
-- AI: `Gemini 3.5-flash-lite, cached summaries (Redis 24h), 10/min rate-limit, graceful fallback — $0 cost`
+- AI: `Gemini 3.5-flash-lite, cached summaries (Redis 24h), 10/min rate-limit, graceful fallback`
 - Quality: `112 Pytest tests, 88% coverage, Ruff clean, GitHub Actions CI (fresh Postgres+Redis), Docker prod images`
 
 **2. [QnA Application](https://github.com/vineoy/QnA_Application) — RAG Q&A**
@@ -44,10 +43,6 @@ Building production backends + AI features — async APIs, background workers, R
 
 **4. [SuperstoreDataVisualization](https://github.com/vineoy/SuperstoreDataVisualization) — Python data viz**
 > Python data analysis / visualization.
-
-#### GitHub stats
-![Vinayak's Stats](https://github-readme-stats.vercel.app/api?username=vineoy&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vineoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 #### Currently
 - 🔭 Maintaining PulseTrack AI
