@@ -1,4 +1,4 @@
-# Hi there, I'm Vinayak 👋
+# Hi, I'm Vinayak👋
 
 ### Python | FastAPI | AI Engineer
 Building production backends + AI features — async APIs, background workers, RAG.
