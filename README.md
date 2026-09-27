@@ -32,23 +32,6 @@ Building production backends + AI features - async APIs, background workers, RAG
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
 
 
-#### Featured projects
-
-**1. [PulseTrack AI](https://github.com/vineoy/pulsetrack-ai) — Uptime monitoring SaaS + AI incident analyst**
-> FastAPI + React SaaS that checks sites/APIs every minute, opens incidents, alerts via Telegram, public status page, Gemini root-cause analysis.
-- Backend: `Python 3.12, FastAPI async, SQLAlchemy 2.0, Alembic, PostgreSQL 16, Redis 7, ARQ workers, JWT + API keys, HMAC webhooks`
-- AI: `Gemini 3.5-flash-lite, cached summaries (Redis 24h), 10/min rate-limit, graceful fallback`
-- Quality: `112 Pytest tests, 88% coverage, Ruff clean, GitHub Actions CI (fresh Postgres+Redis), Docker prod images`
-
-**2. [QnA Application](https://github.com/vineoy/QnA_Application) — RAG Q&A**
-> RAG app with LlamaIndex + Google Gemini + `BAAI/bge-small-en-v1.5` embeddings from HuggingFace.
-
-**3. [MedicationRecommendationModel](https://github.com/vineoy/MedicationRecommendationModel) — ML recommender**
-> Jupyter + Python recommendation model. Good showcase for data/ML fundamentals.
-
-**4. [SuperstoreDataVisualization](https://github.com/vineoy/SuperstoreDataVisualization) — Python data viz**
-> Python data analysis / visualization.
-
 #### Currently
 - 🔭 Maintaining PulseTrack AI
 - 📚 Deepening FastAPI async patterns, ARQ, evals for RAG
