@@ -33,6 +33,6 @@ Building production backends + AI features - async APIs, background workers, RAG
 
 
 #### Currently
-- 🔭 Maintaining PulseTrack AI
+- 🔭 Contributing in Inference Engineering projects
 - 📚 Deepening FastAPI async patterns, ARQ, evals for RAG
-- 🤝 Open to Python/FastAPI/AI freelance & roles — `aaryansk73@gmail.com`
+- 🤝 Open to Python/FastAPI/AI freelance & roles - `aaryansk73@gmail.com`
