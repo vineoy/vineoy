@@ -12,7 +12,7 @@ Building production backends + AI features - async APIs, background workers, RAG
 - 🤖 AI engineer: **RAG (LlamaIndex), LLMs, HuggingFace embeddings, incident analysis / root-cause prompts**
 - ⚙️ Ship with **Docker, GitHub Actions CI, Pytest, Ruff**
 - 📦 Background jobs & realtime: **ARQ, Redis Pub/Sub, WebSockets**
-- 🌱 Previously Java/Spring + React — now focused on Python/FastAPI + AI
+- 🌱 Previously Java/Spring + React - now focused on Python/FastAPI + AI
 
 #### Tech stack
 
